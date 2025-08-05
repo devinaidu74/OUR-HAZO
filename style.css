@@ -5,7 +5,7 @@ body {
     padding: 0;
     background-color: #0d0d0d; /* Dark background */
     color: #f0f0f0; /* Light text */
-    line-height: 1.4;
+    line-height: 1.6rem;
     overflow-x: hidden; /* Prevent horizontal scroll */
 }
 
@@ -509,7 +509,7 @@ a:hover {
     padding: 80px 0;
     background: linear-gradient(to right, #0d0d0d, #1a1a1a); /* Dark gradient */
     text-align: center;
-    line-height: 0.1;
+    line-height: 0.7;
 }
 
 .cta-section h2 {
@@ -535,7 +535,7 @@ a:hover {
     background-color: #080808;
     padding: 50px 0 20px;
     color: #cccccc;
-    font-size: 0.95em;
+    font-size: 0.94em;
 
     
 }
